@@ -1,0 +1,23 @@
+In PHP arrays can either be key / value (i.e. an associative array) or indexed by integers (i.e. a linear array).
+True
+Which symbol is used to associate a key to a value in an associative array?
+=>
+$stuff = array('course ' => 'PHP-Intro', 'topic' => 'Arrays');
+echo ________;
+$stuff['topic']
+What is the output of
+There is no output
+In PHP you cannot make an array of associative arrays.
+False
+The [_____] function is used to rearrange an array in random order.
+shuffle()
+Which of these are built-in sorting functions provided by PHP?
+all excep isort
+What function is used to sort the array in alphabetical order of the keys?
+ksort()
+What function is used to sort the values in array and keep the keys intact?
+asort()
+What function can be used to split a string into an array words based on a delimiter? For instance, create a three element array from the string 'I am great!!!'.
+explode()
+var_dump will display the name, key/value pairs, and data types of a variable.
+true
