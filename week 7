@@ -1,0 +1,20 @@
+Why should you use functions?
+Avoid repetitive code, Organize your code, Break complex code into logical chunks
+Which keyword defines a new function?
+function
+Return values are type-specific in php functions (a function only returns a value of a specified data type.)
+False
+What output does the following code produce?
+Value = 15 Doubled = 30
+Which keyword is used to use code from one php file into a different PHP file?
+include
+Which function prints out the internal configuration capabilities of your particular PHP installation?
+phpinfo()
+Adding an ampersand ( & ) to a function parameter indicates that you are using call by [_____] for that parameter.
+reference
+The keyword [_____] will expand the scope of a variable outside of its function.
+global
+The [_____] function is used to check if a function already exists or not.
+function_exists()
+It is common to use uppercase and/or long names for global variables to avoid confusion or mistaken reuse.
+true
